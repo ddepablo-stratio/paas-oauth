@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.2.0 (upcoming)
+## 0.2.0 (June 22, 2018)
 
 * Remove role validation 
 
