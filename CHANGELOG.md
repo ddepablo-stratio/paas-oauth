@@ -1,8 +1,12 @@
 # Changelog
 
-## 0.2.0 (upcoming)
+## 0.3.0 (upcoming)
 
-* Remove role validation 
+* Pending changelog
+
+## 0.2.0-8f18fe0 (Built: June 22, 2018 | Pre-release)
+
+* Remove role validation
 
 ## 0.1.0 (October 26, 2017)
 
